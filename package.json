@@ -2,7 +2,7 @@
   "name": "udacity-c2-image-filter",
   "version": "1.0.0",
   "description": "",
-  "main": "server.ts",
+  "main": "./src/server.ts",
   "engines" : { 
     "node" : ">=13.0.0 <17.0.0"
   },
